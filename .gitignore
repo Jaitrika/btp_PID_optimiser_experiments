@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.ipynb
+data/
+out_*/
+curves/
+*.csv
+.DS_Store
